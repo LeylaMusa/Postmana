@@ -1,0 +1,34 @@
+{
+	"id": "75a218c1-ae95-49e5-8949-c5945f98304f",
+	"name": "Products",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "productPrice",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "productTitle",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-01-18T16:26:24.962Z",
+	"_postman_exported_using": "Postman/11.80.4"
+}
